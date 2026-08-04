@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Payal Devani
 
-<!--
-**payalrdevani/payalrdevani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Developer with 15+ years of experience building scalable web applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Laravel
+- React
+- WordPress
+- MySQL
+- MongoDB
+- Docker
+- AWS
+- Git
+- GitHub Actions
+- REST APIs
+
+## 🤖 AI Tools
+
+- Claude Pro (Opus 4.6)
+- GitHub Copilot Pro
+- ChatGPT
+- Cursor AI
+- Google Gemini
+- Ollama
+
+## 🌱 Currently Learning
+
+- Docker
+- CI/CD
+- Kubernetes
+- AWS DevOps
+- Microservices
+
+## 📫 Connect with Me
+
+LinkedIn:
+https://www.linkedin.com/in/payal-devani-2113a068/
