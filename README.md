@@ -1,39 +1,100 @@
 # Hi 👋 I'm Payal Devani
 
-Senior Full Stack Developer with 15+ years of experience building scalable web applications.
+### Senior Full Stack Engineer | Technical Lead | Solution Architect
 
-## 💻 Tech Stack
+14+ years of experience designing, developing, and modernizing scalable
+web applications, SaaS platforms, eCommerce solutions, and enterprise systems.
 
-- PHP
-- Laravel
-- React
-- WordPress
-- MySQL
-- MongoDB
-- Docker
-- AWS
-- Git
-- GitHub Actions
-- REST APIs
+---
+
+## 🚀 About Me
+
+- 💻 Senior Full Stack Developer with 14+ years of professional experience
+- 🏗️ Experienced in backend architecture, APIs, database optimization, and cloud integration
+- 👥 Experienced in leading and mentoring development teams
+- 🔐 Strong focus on application security and performance optimization
+- 🤖 Experienced with AI-assisted software development
+- ☁️ Experience with AWS, Docker, CI/CD and deployment automation
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+PHP · Laravel · CodeIgniter · CakePHP · WordPress · Drupal · Node.js
+
+### Frontend
+AngularJS · JavaScript · jQuery · React · HTML5 · CSS3 · Bootstrap · AJAX
+
+### Databases
+MySQL · MongoDB · PostgreSQL · Query Optimization · Indexing
+
+### APIs & Integrations
+REST APIs · Stripe · PayPal · Razorpay · Twilio · Google APIs · Mailchimp
+
+### Cloud & DevOps
+AWS · AWS S3 · Docker · Git · GitHub Actions · Linux · CI/CD
+
+### Testing & Security
+PHPUnit · TDD · OWASP · RBAC · SQL Injection Prevention · XSS Mitigation
+
+---
 
 ## 🤖 AI Tools
 
-- Claude Pro (Opus 4.6)
+- Claude Pro
 - GitHub Copilot Pro
 - ChatGPT
 - Cursor AI
 - Google Gemini
 - Ollama
 
-## 🌱 Currently Learning
+---
 
-- Docker
-- CI/CD
-- Kubernetes
-- AWS DevOps
-- Microservices
+## 💼 Featured Projects
 
-## 📫 Connect with Me
+### LexitasLegal
+Enterprise court-reporting SaaS platform with invoicing, dynamic pricing,
+resource management, and high-performance APIs.
 
-LinkedIn:
-https://www.linkedin.com/in/payal-devani-2113a068/
+### Republic Bank
+HR and employee onboarding platform supporting employee engagement,
+learning, hiring, rewards, and retention.
+
+### FAC Payment Gateway Plugin
+Custom First Atlantic Commerce payment gateway plugin for WooCommerce
+with secure payment API integration and tokenisation.
+
+### 1Logis
+Real-estate platform for buying, selling, and renting apartments with
+Google Maps integration, multiple images, payments, and administration.
+
+### Electronics Lab
+WooCommerce eCommerce platform with custom theme development,
+product management, and optimized checkout.
+
+---
+
+## 📊 Experience
+
+**14+ Years Experience**
+
+**50+ Projects Delivered**
+
+**5–10 Developers Led**
+
+**200+ Automated Tests**
+
+---
+
+## 🌐 Portfolio
+
+👉 https://payalrdevani.github.io/payalrdevani
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/payal-devani/)
+
+---
+
+⭐ Thanks for visiting my profile!
